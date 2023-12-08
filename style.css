@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-sizing: border-box;
+}
+.page {
+  width: 100%;
+  margin: 0 auto;
+
+}
+header{
+  background: #293241;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
